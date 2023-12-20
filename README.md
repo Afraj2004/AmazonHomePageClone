@@ -1,7 +1,7 @@
 # AmazonHomePageClone
 This project is a clone of the Amazon Home page, created using HTML and CSS.
 It serves as a demonstration of front-end web development skills and the ability to replicate a popular e-commerce website's layout.
-You can check out a live demo of the Amazon Home page clone ![Amazon Home Page Clone](https://afraj2004.github.io/AmazonHomePageClone/).
+You can check out a live demo of the Amazon Home page clone [Amazon Home Page Clone](https://afraj2004.github.io/AmazonHomePageClone/).
 ![Amazon Home Page Clone](path/to/screenshot.png).
 ## Features
 
